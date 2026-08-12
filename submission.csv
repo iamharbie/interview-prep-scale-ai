@@ -1,0 +1,6 @@
+contributor_id,task_id,submission_text,timestamp
+c001,t100,"The image contains a red car parked outside a building",2026-08-12T09:00:00Z
+c002,t101,"Transcript unclear, unable to determine speaker intent",2026-08-12T09:05:00Z
+c003,t102,"Object detected: pedestrian crossing at intersection, high confidence",2026-08-12T09:10:00Z
+c001,t103,"asdkjaslkdj not a real answer just mashing keys",2026-08-12T09:12:00Z
+c004,t104,"",2026-08-12T09:15:00Z
